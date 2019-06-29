@@ -1,2 +1,0 @@
-# EatPrayLove
-Created with CodeSandbox
